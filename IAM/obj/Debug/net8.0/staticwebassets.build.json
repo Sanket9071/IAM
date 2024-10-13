@@ -1,0 +1,50 @@
+{
+  "Version": 1,
+  "Hash": "gNF/OrvzhZE7dP5wwWp2U6RtxjbEdTbvSRLG8mBvH7I=",
+  "Source": "IAM",
+  "BasePath": "_content/IAM",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IAM.styles.css",
+      "SourceId": "IAM",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/IAM",
+      "RelativePath": "IAM.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\bundle\\IAM.styles.css"
+    },
+    {
+      "Identity": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IAM.bundle.scp.css",
+      "SourceId": "IAM",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/IAM",
+      "RelativePath": "IAM.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IAM.bundle.scp.css"
+    }
+  ]
+}

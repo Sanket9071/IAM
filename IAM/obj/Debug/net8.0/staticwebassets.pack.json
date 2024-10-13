@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\GitHub\\IAM\\IAM\\IAM\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\IAM.bundle.scp.css",
+      "PackagePath": "staticwebassets\\IAM.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.IAM.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.IAM.props",
+      "PackagePath": "build\\IAM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.IAM.props",
+      "PackagePath": "buildMultiTargeting\\IAM.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.IAM.props",
+      "PackagePath": "buildTransitive\\IAM.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
